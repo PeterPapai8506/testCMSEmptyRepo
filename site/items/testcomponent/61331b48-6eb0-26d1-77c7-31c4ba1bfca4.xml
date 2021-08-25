@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/testcomponent</content-type>
+	<display-template>/templates/web/entry.ftl</display-template>
+	<no-template-required>false</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6133</objectGroupId>
+	<objectId>61331b48-6eb0-26d1-77c7-31c4ba1bfca4</objectId>
+	<file-name>61331b48-6eb0-26d1-77c7-31c4ba1bfca4.xml</file-name>
+	<name_t/>
+	<thumbnail_s/>
+	<internal-name>TC 10</internal-name>
+	<link_s/>
+	<createdDate>2021-08-25T11:47:45.568Z</createdDate>
+	<createdDate_dt>2021-08-25T11:47:45.568Z</createdDate_dt>
+	<lastModifiedDate>2021-08-25T11:47:45.568Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-25T11:47:45.568Z</lastModifiedDate_dt>
+</component>
